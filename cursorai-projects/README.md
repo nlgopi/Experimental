@@ -1,1 +1,2 @@
-#Projects/rough code that was experimented with cursor AI. It is meant to be rough
+# Cursor AI experiments
+It is meant to be rough
